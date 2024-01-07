@@ -9,7 +9,7 @@
 - 👀 I’m interested in Web Developing
 - 💬 Ask me about React JS
 - 📫 How to reach me: labonnoakter650@gmail.com
-- 🌐 My Portfolio: [https://my-portfolio-38.netlify.app](https://portfolio-website-two-coral.vercel.app/)
+- 🌐 My Portfolio: [https://portfolio-website-two-coral.vercel.app/]
 - 📄 Know about my experiences: https://drive.google.com/file/d/1fecJncPSqOnjIAmFYzkRDfpvnbUzzOR_/view?usp=sharing
 
 ### 💻 Languages and Tools:
